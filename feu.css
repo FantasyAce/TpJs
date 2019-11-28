@@ -1,0 +1,77 @@
+#frame{
+    height: 600px;
+    width: 250px;
+    background-color: black;
+    
+}
+
+.red{
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 50px;
+}
+
+
+.orange{
+    background-color: orange;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 50px;
+}
+
+.green{
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 50px;
+}
+
+#boite{
+    background-color: grey;
+    height: 150px;
+    width: 125px;
+    margin-top: 10px;
+    margin-left: 60px;   
+   
+    
+}
+
+ .grey{
+    
+    background-color: grey !important ;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 50px;
+}
+
+/* .orange{
+    
+    background-color: grey;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 50px;
+}
+.vert{
+    background-color: grey;
+    
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 50px;
+} */
+
+button{
+    position: absolute;
+    margin: 17px;
+    font-size: large;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
